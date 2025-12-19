@@ -1,0 +1,8 @@
+{
+  "short_name": "Voting App",
+  "name": "Voting Application",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
